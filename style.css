@@ -41,3 +41,8 @@ a {
 a:hover {
     color: cyan;
 }
+
+footer {
+    font-weight: bold;
+    font-size: 17px;
+}
